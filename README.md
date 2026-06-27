@@ -1,2 +1,2 @@
-# Domain-Specific-Chatbot
-Domain-Specific-Chatbot --Project
+#RAG-Chatbot
+RAG-Chatbot --Project
