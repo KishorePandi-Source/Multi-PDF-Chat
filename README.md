@@ -1,2 +1,2 @@
-# Multi-PDF-Chat
-Multi-PDF Chat --Project
+# Domain-Specific-Chatbot
+Domain-Specific-Chatbot --Project
